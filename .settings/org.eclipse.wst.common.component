@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ralasafe">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/client"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/constants-and-commons"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/demo"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/entitlement"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/for-client-interface"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/orm"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/util"/>
+        <property name="context-root" value="ralasafe"/>
+        <property name="java-output-path" value="/ralasafe/bin"/>
+    </wb-module>
+</project-modules>
